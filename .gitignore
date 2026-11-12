@@ -30,3 +30,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# JARVIS personal memory database
+database/*.db
+
+# Temporary tests
+test_memory.py
